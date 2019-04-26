@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "sd-battletech",
+    "name": "Super Demorphed Battletech",
+    "authors": [ "Rod995" ],
+    "description": "WIP mod to demonstrate the advantages of using downscaled models. Or whatever that means.",
+    "category": "items",
+    "dependencies": [ "dda" ]
+  }
+]
