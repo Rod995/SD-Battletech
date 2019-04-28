@@ -5,7 +5,7 @@
     "category": "armor",
     "symbol": "E",
     "color": "dark_gray",
-    "name": "Elemental Battle Armor",
+    "name": "Elemental Torso Armor",
     "description": "It's some nice Clan stuff. Looks cool too. You'll need to find a complete set.",
     "flags": [
       "VARSIZE",
@@ -33,7 +33,7 @@
       "deactive_msg": "You deactivate your armor.",
       "out_of_power_msg": "Darn. It's dead."
     },
-    "covers": [ "HEAD", "MOUTH", "EYES", "TORSO", "ARMS", "HANDS", "LEGS", "FEET" ],
+    "covers": [ "TORSO" ],
     "storage": 6,
     "warmth": 30,
     "environmental_protection": 5,
@@ -47,7 +47,7 @@
     "category": "armor",
     "symbol": "E",
     "color": "dark_gray",
-    "name": "Elemental Base Armor",
+    "name": "Elemental Torso Armor (on)",
     "description": "It's some nice Clan stuff. Looks cool too, and it's on. You'll need to find a complete set.",
     "flags": [
       "VARSIZE",
@@ -77,7 +77,7 @@
       "out_of_power_msg": "Darn. It's dead."
     },
     "artifact_data": { "effects_worn": [ "AEP_STR_UP", "AEP_STR_UP" ] },
-    "covers": [ "HEAD", "MOUTH", "EYES", "TORSO", "ARMS", "HANDS", "LEGS", "FEET" ],
+    "covers": [ "TORSO" ],
     "storage": 5,
     "warmth": 30,
     "environmental_protection": 15,
