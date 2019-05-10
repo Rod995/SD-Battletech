@@ -4,5 +4,11 @@
     "type": "monstergroup",
     "default": "mon_null",
     "monsters": [ { "monster": "mon_null", "freq": 1, "cost_multiplier": 1 } ]
+  },
+  {
+  	"name": "GROUP_BT_FAUNA",
+  	"type": "monstergroup",
+  	"default": "burning_branth",
+  	"monsters": [ { "monster": "burning_branth", "freq": 1, "cost_multiplier": 1 } ]
   }
 ]

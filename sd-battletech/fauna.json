@@ -128,7 +128,7 @@
   },{
     "id": "burning_branth",
     "type": "MONSTER",
-    "name": "branth rider",
+    "name": "Branth Rider",
     "description": "This Branth is angry...",
     "default_faction": "Free_Worlds_League",
     "species": [ "HUMAN" ],
