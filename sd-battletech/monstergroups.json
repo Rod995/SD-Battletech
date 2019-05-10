@@ -1,0 +1,8 @@
+[
+  {
+    "name": "GROUP_BATTLETECH",
+    "type": "monstergroup",
+    "default": "mon_null",
+    "monsters": [ { "monster": "mon_null", "freq": 1, "cost_multiplier": 1 } ]
+  }
+]
