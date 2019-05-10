@@ -7,5 +7,10 @@
     "description": "WIP mod to demonstrate the advantages of using downscaled models. Or whatever that means.",
     "category": "items",
     "dependencies": [ "dda" ]
+  },
+  {
+    "type": "MONSTER_WHITELIST",
+    "mode": "EXCLUSIVE",
+    "categories": [ "BATTLETECH" ]
   }
 ]
